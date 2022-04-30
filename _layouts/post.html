@@ -106,7 +106,14 @@ layout: default
     form.action = "{{ site.staticmanUrl }}";
     form.submitButton.disabled = true;
     form.submitButton.value = "در حال ارسال...";
-    return true;
+    fetch("{{ site.staticmanUrl }}", {
+        method : "POST",
+        body:  new FormData(document.getElementById("comment-form")),
+    }).then(
+	    alert("نظر شما با موفقیت ارسال شد.");
+    ).then(
+    html => console.log(html)
+);
   }
   </script>
   {%- include disqus.html -%}

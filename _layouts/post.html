@@ -109,10 +109,13 @@ layout: default
     fetch("{{ site.staticmanUrl }}", {
         method : "POST",
         body:  new FormData(document.getElementById("comment-form")),
-    }).then(
-	    alert("نظر شما با موفقیت ارسال شد.");
-    ).then(
-    html => console.log(html)
+   }).then(response => {
+      alert("نظر شما با موفقیت ارسال شد.");
+    }).catch(error => {
+      console.log(error);
+    form.submitButton.disabled = false;
+    form.submitButton.value = "ارسال";
+    });
 );
   }
   </script>

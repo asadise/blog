@@ -157,7 +157,7 @@ input[type=submit]:hover {background-color: #45a049;}
 @media (prefers-color-scheme: dark) {
  body {background: #202124;color: #fff;}
  .wrapper-masthead, .author-section, .related-posts, .wrapper-footer, .comment-form {border: 0px;background: #303134}
- .site-name, .site-description, nav a, ul.breadcrumb li+li:before, .post blockquote, .pagination, .pagination-nonlink, .pagination a,  .pagination a.active, date {color: #fff;}
+ .site-name, .site-description, nav a, ul.breadcrumb li+li:before, .post blockquote, .pagination, .pagination-nonlink, .pagination a,  .pagination a.active, .date {color: #fff;}
  .pagination a:hover:not(.active) {background-color: #000}
  .highlight {background-color: #303134 !important;}
  input, textarea{color: #fff;background: #303134}

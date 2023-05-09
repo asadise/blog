@@ -64,7 +64,7 @@ layout: default
     {%- endif -%}
   <div class="comment-form">
    <form id="comment-form" method="post">
-    <input type="hidden" name="options[slug]" value="{{ page.date | date: "%s" }}">
+    <input type="hidden" name="fields[slug]" value="{{ page.date | date: "%s" }}">
     <input name="options[redirect]" type="hidden" value="{{site.url}}{{ page.url }}?sendComment=true">
     <input name="fields[url]" id="hidden-mail" type="hidden">
     <input name="fields[agent]" id="hidden-useragent" type="hidden">

@@ -1,13 +1,13 @@
-name: مرتضی اسدی
+﻿name: مرتضی اسدی
 author: مرتضی اسدی
 url: http://asadiweb.ir
 baseurl: ""
 permalink: /:title/
 paginate_path: "/blog/page/:num/"
 paginate: 10
-commonTags: ['معرفی-نرم‌افزار','معرفی-فیلم','معرفی-کتاب','دلنوشت','اینترنت','برنامه‌نویسی', 'آموزش-فریم-ورک-اسپرینگ']
+commonTags: ['معرفی-نرم‌افزار','معرفی-فیلم','معرفی-کتاب','دلنوشت','اینترنت','برنامه‌نویسی', 'آموزش-فریم-ورک-اسپرینگ', 'معرفی-سیستم-عامل']
 disqus:
-staticmanUrl: https://asadiweb-ir.herokuapp.com/v2/entry/asadise/blog/master/comments
+staticmanUrl: 
 google_analytics:
 webmaster_verifications:
   google: muV1TkfhCKBMPJ9jtiGeVXkDrpwzXlkNakwVPJ7rtdA

@@ -4,18 +4,4 @@ slug: "1694736000"
 url: "infoasadiweb.ir"
 agent: "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0"
 name: "مرتضی اسدی"
-msg: "@یزدان پرست، سلام
-برای نصب گنوم ترمینال، همانطور که در ابتدای این نوشته اشاره کرده‌ام، بعد از بوت شدن دبیان ۱۲ در حالت کامندلاین دستور زیر را بزنید:<br/><figure class='highlight'><pre><code  class="language-shell" data-lang="shell">
-sudo apt install gnome-terminal</code></pre></figure><br/>
-نصب گنوم<br/><figure class='highlight'><pre><code  class="language-shell" data-lang="shell">
-sudo apt install gnome-shell</code></pre></figure><br/>
-نصب مدیر فایل<br/><figure class='highlight'><pre><code  class="language-shell" data-lang="shell">
-sudo apt install nautilus</code></pre></figure><br/>
-نصب tweaks<br/><figure class='highlight'><pre><code  class="language-shell" data-lang="shell">
-sudo apt install tweaks</code></pre></figure><br/>
-نصب ویرایشگر متنی<br/><figure class='highlight'><pre><code  class="language-shell" data-lang="shell">
-sudo apt install gedit</code></pre></figure><br/>
-نصب مدیر افزونه‌های گنوم<br/><figure class='highlight'><pre><code  class="language-shell" data-lang="shell">
-sudo apt install gnome-extensions-app </code></pre></figure><br/>
-نصب گنوم سافت‌ور <br/><figure class='highlight'><pre><code  class="language-shell" data-lang="shell">
-sudo apt install gnome-software</code></pre></figure><br/>هر برنامه‌ی دیگری هم که به آن نیاز داشتید و می‌توانید اسم برنامه و عبارت insatll via terminal را جستجو کنید تا دستور مربوطه را پیدا کنید. "
+msg: "@یزدان پرست، سلام <br>برای نصب گنوم ترمینال، همانطور که در ابتدای این نوشته اشاره کرده‌ام، بعد از بوت شدن دبیان ۱۲ در حالت کامندلاین دستور زیر را بزنید:<br/><figure class=highlight><pre><code  class=language-shell data-lang=shell>sudo apt install gnome-terminal</code></pre></figure><br/>نصب گنوم<br/><figure class=highlight><pre><code  class=language-shell data-lang=shell>sudo apt install gnome-shell</code></pre></figure><br/>نصب مدیر فایل<br/><figure class=highlight><pre><code  class=language-shell data-lang=shell>sudo apt install nautilus</code></pre></figure><br/>نصب tweaks<br/><figure class=highlight><pre><code  class=language-shell data-lang=shell>sudo apt install tweaks</code></pre></figure><br/>نصب ویرایشگر متنی<br/><figure class=highlight><pre><code  class=language-shell data-lang=shell>sudo apt install gedit</code></pre></figure><br/>نصب مدیر افزونه‌های گنوم<br/><figure class=highlight><pre><code  class=language-shell data-lang=shell>sudo apt install gnome-extensions-app </code></pre></figure><br/>نصب گنوم سافت‌ور <br/><figure class=highlight><pre><code  class=language-shell data-lang=shell>sudo apt install gnome-software</code></pre></figure><br/>هر برنامه‌ی دیگری هم که به آن نیاز داشتید و می‌توانید اسم برنامه و عبارت insatll via terminal را جستجو کنید تا دستور مربوطه را پیدا کنید. "

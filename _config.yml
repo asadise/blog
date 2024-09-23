@@ -1,6 +1,6 @@
 ﻿name: مرتضی اسدی
 author: مرتضی اسدی
-url: http://asadiweb.ir
+url: https://asadiweb.ir
 baseurl: ""
 permalink: /:title/
 paginate_path: "/blog/page/:num/"

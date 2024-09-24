@@ -20,7 +20,7 @@ layout: default
     {%- endfor -%}
   </small>
   <div class="author-section">
-		<img class="author-image" src="http://gravatar.com/avatar/cb00fdea2f1306996f699afdd9c367d2?s=120" alt="مرتضی اسدی" title="مرتضی اسدی">
+		<img class="author-image" src="https://gravatar.com/avatar/cb00fdea2f1306996f699afdd9c367d2?s=120" alt="مرتضی اسدی" title="مرتضی اسدی">
 	<div>
 		<div class="author-about">
 			<b>مرتضی اسدی</b>
@@ -54,7 +54,7 @@ layout: default
     {%- for comment in comments -%}
       <div class="comment-list">
 	  <div class="comment-avatar">
-		<img src="http://www.gravatar.com/avatar/{{ comment[1].email }}?d=mm&s=60">
+		<img src="https://www.gravatar.com/avatar/{{ comment[1].email }}?d=mm&s=60">
 	  </div>
 	  <h4 class="comment-author-name">{{ comment[1].name }}</h4>
 	  <small class="comment-timestamp"><time datetime="{{ comment[1].date | date: "%Y-%m-%d %H:%M:%S +0430" }}">{{ comment[1].date | date: '%B %d, %Y' }}</time></small>

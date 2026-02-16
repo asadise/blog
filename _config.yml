@@ -2,8 +2,8 @@
 author: مرتضی اسدی
 url: https://asadiweb.ir
 baseurl: ""
-permalink: /:title/
-paginate_path: "/blog/page/:num/"
+permalink: /:title
+paginate_path: "/blog/page/:num"
 paginate: 10
 commonTags: ['معرفی-نرم‌افزار','معرفی-فیلم','معرفی-کتاب','دلنوشت','اینترنت','برنامه‌نویسی', 'آموزش-فریم-ورک-اسپرینگ', 'معرفی-سیستم-عامل']
 disqus:

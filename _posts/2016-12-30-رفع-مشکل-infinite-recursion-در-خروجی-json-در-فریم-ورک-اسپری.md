@@ -12,7 +12,7 @@ tags:
 - برنامه‌نویسی
 redirect_from: 
   - /2016/12/infinite-recursion-for-bi-directional-model-spring-framework.html
-  - %D8%B1%D9%81%D8%B9-%D9%85%D8%B4%DA%A9%D9%84-infinite-recursion-%D8%AF%D8%B1-%D8%AE%D8%B1%D9%88%D8%AC%DB%8C-json-%D8%AF%D8%B1-%D9%81%D8%B1%DB%8C%D9%85-%D9%88%D8%B1%DA%A9-%D8%A7%D8%B3%D9%BE%D8%B1%DB%8C/
+  - '%D8%B1%D9%81%D8%B9-%D9%85%D8%B4%DA%A9%D9%84-infinite-recursion-%D8%AF%D8%B1-%D8%AE%D8%B1%D9%88%D8%AC%DB%8C-json-%D8%AF%D8%B1-%D9%81%D8%B1%DB%8C%D9%85-%D9%88%D8%B1%DA%A9-%D8%A7%D8%B3%D9%BE%D8%B1%DB%8C/'
 ---
 
 پیش از هر چیز باید بگویم که این نوشته مربوط به برنامه‌نویسی در فریم‌ورک اسپرینگ است؛ اگر با این فریم‌ورک آشنایی ندارید، خواندن [این نوشته‌ی](http://asadiweb.ir/%d9%81%d8%b1%db%8c%d9%85-%d9%88%d8%b1%da%a9-%d8%a7%d8%b3%d9%be%d8%b1%db%8c%d9%86%da%af-spring-framework-%da%86%db%8c%d8%b3%d8%aa%d8%9f/) من در مورد این چهارچوب برنامه‌نویسی می‌تواند برای شما مفید باشد. فرض کنید که دو مدل داریم که با هم ارتباط bi-directional دارند؛ یعنی هر کدام از این مدل‌ها یک property از مدل دیگر دارند؛ view model برای این دو مدل به صورت زیر هستند:

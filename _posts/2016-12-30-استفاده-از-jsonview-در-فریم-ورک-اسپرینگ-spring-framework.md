@@ -12,7 +12,7 @@ tags:
 - برنامه‌نویسی
 redirect_from: 
   - /2016/12/using-jsonview-spring-framework.html
-  - %D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A7%D8%B2-jsonview-%D8%AF%D8%B1-%D9%81%D8%B1%DB%8C%D9%85-%D9%88%D8%B1%DA%A9-%D8%A7%D8%B3%D9%BE%D8%B1%DB%8C%D9%86%DA%AF-spring-framework/
+  - '%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A7%D8%B2-jsonview-%D8%AF%D8%B1-%D9%81%D8%B1%DB%8C%D9%85-%D9%88%D8%B1%DA%A9-%D8%A7%D8%B3%D9%BE%D8%B1%DB%8C%D9%86%DA%AF-spring-framework/'
 ---
 
 پیش از هر چیز باید بگویم که این نوشته مربوط به برنامه‌نویسی در فریم‌ورک اسپرینگ است؛ اگر با این فریم‌ورک آشنایی ندارید، خواندن [این نوشته‌ی](http://asadiweb.ir/%d9%81%d8%b1%db%8c%d9%85-%d9%88%d8%b1%da%a9-%d8%a7%d8%b3%d9%be%d8%b1%db%8c%d9%86%da%af-spring-framework-%da%86%db%8c%d8%b3%d8%aa%d8%9f/) من در مورد این چهارچوب برنامه‌نویسی می‌تواند برای شما مفید باشد. به طور معمول برای نمایش دیتا به کاربر از view model استفاده می‌کنیم؛ اما گاهی اوقات پیش می‌آید که در جایی از پروژه، تمام فیلدهای view model را نیاز داشته باشیم و در جای دیگر بخشی از این فیلدها مورد نیاز باشد.

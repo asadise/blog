@@ -11,7 +11,7 @@ tags:
 - برنامه‌نویسی
 redirect_from: 
   - /2016/12/create-thumbnail-image-in-spring-framework.html
-  - %D8%B3%D8%A7%D8%AE%D8%AA-%D8%AA%D8%B5%D8%A7%D9%88%DB%8C%D8%B1-thumbnail-%D8%AF%D8%B1-%D9%81%D8%B1%DB%8C%D9%85-%D9%88%D8%B1%DA%A9-%D8%A7%D8%B3%D9%BE%D8%B1%DB%8C%D9%86%DA%AF/
+  - '%D8%B3%D8%A7%D8%AE%D8%AA-%D8%AA%D8%B5%D8%A7%D9%88%DB%8C%D8%B1-thumbnail-%D8%AF%D8%B1-%D9%81%D8%B1%DB%8C%D9%85-%D9%88%D8%B1%DA%A9-%D8%A7%D8%B3%D9%BE%D8%B1%DB%8C%D9%86%DA%AF/'
 ---
 
   

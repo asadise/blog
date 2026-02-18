@@ -12,7 +12,7 @@ tags:
 - برنامه‌نویسی
 redirect_from: 
   - /2016/12/give-access-authenticated-user-spring-security.html
-  - %D8%AF%D8%A7%D8%AF%D9%86-%D8%AF%D8%B3%D8%AA%D8%B1%D8%B3%DB%8C-%D8%A8%D9%87-%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%D8%A7%D9%86-Login-%DA%A9%D8%B1%D8%AF%D9%87-%D8%AF%D8%B1-Spring-Security/
+  - '%D8%AF%D8%A7%D8%AF%D9%86-%D8%AF%D8%B3%D8%AA%D8%B1%D8%B3%DB%8C-%D8%A8%D9%87-%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%D8%A7%D9%86-Login-%DA%A9%D8%B1%D8%AF%D9%87-%D8%AF%D8%B1-Spring-Security/'
 ---
 پیش از هر چیز باید بگویم که این نوشته مربوط به برنامه‌نویسی در فریم‌ورک اسپرینگ است؛ اگر با این فریم‌ورک آشنایی ندارید، خواندن [این نوشته‌ی](http://asadiweb.ir/%d9%81%d8%b1%db%8c%d9%85-%d9%88%d8%b1%da%a9-%d8%a7%d8%b3%d9%be%d8%b1%db%8c%d9%86%da%af-spring-framework-%da%86%db%8c%d8%b3%d8%aa%d8%9f/) من در مورد این چهارچوب برنامه‌نویسی می‌تواند برای شما مفید باشد. پروژه‌ی Spring Security یکی از ابزارهای قدرتمند برای احراز هویت و دادن دسترسی در برنامه‌های اسپرینگ است. در این نوشته قصد داریم به کاربران وارد شده در اپلیکیشن (صرف نظر از هر Roleی که دارند) دسترسی بدهیم.
 

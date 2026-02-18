@@ -11,7 +11,7 @@ tags:
 - Morteza-Asadi
 - برنامه‌نویسی
 redirect_from:
-  - NamedQuery-xml-annotation/
+  - 'NamedQuery-xml-annotation/'
 ---
   
 

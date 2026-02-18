@@ -11,7 +11,7 @@ tags:
 - برنامه‌نویسی
 
 redirect_from:
-  - %D8%A2%D9%85%D9%88%D8%B2%D8%B4-form-scaner-%D9%81%D8%B1%DB%8C%D9%85%E2%80%8C%D9%88%D8%B1%DA%A9-%D8%A7%D8%B3%D9%BE%D8%B1%DB%8C%D9%86%DA%AF/
+  - '%D8%A2%D9%85%D9%88%D8%B2%D8%B4-form-scaner-%D9%81%D8%B1%DB%8C%D9%85%E2%80%8C%D9%88%D8%B1%DA%A9-%D8%A7%D8%B3%D9%BE%D8%B1%DB%8C%D9%86%DA%AF/'
 ---
   
 

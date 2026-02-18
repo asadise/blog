@@ -13,6 +13,8 @@ tags:
 - Morteza-Asadi
 - برنامه‌نویسی
 
+redirect_from:
+  - %D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%AC%DB%8C-%DA%A9%D9%88%D8%A6%D8%B1%DB%8C-deselect-radio-input/
 ---
 
   

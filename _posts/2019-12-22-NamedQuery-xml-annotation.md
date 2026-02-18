@@ -10,6 +10,8 @@ tags:
 - آموزش-جاوا-اسپرینگ
 - Morteza-Asadi
 - برنامه‌نویسی
+redirect_from:
+  - NamedQuery-xml-annotation/
 ---
   
 

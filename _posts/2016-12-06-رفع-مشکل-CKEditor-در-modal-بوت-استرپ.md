@@ -12,6 +12,7 @@ tags:
 - برنامه‌نویسی
 redirect_from: 
   - /2016/12/ckeditor-on-bootstrap-modal.html
+  - %D8%B1%D9%81%D8%B9-%D9%85%D8%B4%DA%A9%D9%84-CKEditor-%D8%AF%D8%B1-modal-%D8%A8%D9%88%D8%AA-%D8%A7%D8%B3%D8%AA%D8%B1%D9%BE/
 ---
 
 اگر بخواهیم از ویراشگر متن CK Editor در یک Bootstrap Modal استفاده کنیم، از آنجایی که خود CK Editor نیز برای کارهایی نظیر درج لینک یا تصویر و... از یک modal استفاده می‌کند؛ برای همین دچار conflict می‌شویم و دیگر تمای inputهای فرم‌های درج لینک، تصویر disable خواهند شد.

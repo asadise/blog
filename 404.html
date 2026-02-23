@@ -4,13 +4,7 @@
   <title>Redirecting&hellip;</title>
   <!--<link rel="canonical" href="https://asadiweb.ir/">-->
   <script>
-  var xhr = new XMLHttpRequest();
-  xhr.open('GET', window.location.href.slice(0, -1), true);
-  xhr.onreadystatechange = function() {
-  if (xhr.readyState === 4)
-    window.location.replace((xhr.status === 200) ? window.location.href.slice(0, -1) : "https://asadiweb.ir");
-  };
-  xhr.send();  
+    window.location.replace((window.location.href.endsWith("/")) ? window.location.href.slice(0, -1) : "https://asadiweb.ir");
   </script>
   <meta http-equiv="refresh" content="0; url=https://asadiweb.ir/">
   <meta name="robots" content="noindex">

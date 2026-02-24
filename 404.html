@@ -1,13 +1,23 @@
+{%- assign url_no_slash = page.url -%}
 <!DOCTYPE html>
 <html lang="en-US">
   <meta charset="utf-8">
   <title>Redirecting&hellip;</title>
-  <!--<link rel="canonical" href="https://asadiweb.ir/">-->
-  <script>
-    window.location.replace((window.location.href.endsWith("/")) ? window.location.href.slice(0, -1) : "https://asadiweb.ir");
-  </script>
-  <!--<meta http-equiv="refresh" content="0; url=https://asadiweb.ir/">-->
+{%- assign last_char = url_no_slash | slice: -1, 1 -%}
+{%- if last_char == "/" -%}
+  {%- assign url_no_slash = url_no_slash | slice: 0, url_no_slash.size | minus: 1 -%}
+  <link rel="canonical" href="{{ url_no_slash }}">
+  <script>location="{{ url_no_slash }}"</script>
+  <meta http-equiv="refresh" content="0; url={{ url_no_slash }}">
   <meta name="robots" content="noindex">
   <h1>Redirecting&hellip;</h1>
-  <a href="https://asadiweb.ir/">Click here if you are not redirected.</a>
+  <a href="{{ url_no_slash }}">Click here if you are not redirected.</a>
+{&- else -&}
+  <link rel="canonical" href="https://asadiweb.ir">
+  <script>location="https://asadiweb.ir"</script>
+  <meta http-equiv="refresh" content="0; url=https://asadiweb.ir">
+  <meta name="robots" content="noindex">
+  <h1>Redirecting&hellip;</h1>
+  <a href="https://asadiweb.ir">Click here if you are not redirected.</a>
+{%- endif -%}
 </html>
